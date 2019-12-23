@@ -1,0 +1,37 @@
+body,input,button{font-size:1rem;line-height:1.3;margin:0;}
+body{background:#1e1e30;}
+a,a:hover{color:#fff;}
+ul{padding:0}
+p{margin: 0}
+.fas,.fa-layers{color:#fff;}
+header{padding:2.5rem;}
+.navbar{background:#1e1e30;padding:1rem}
+.navbar:after,.sidebar .logo:after{content:"";position:absolute;bottom:0;right:15px;height:1px;width:calc(100% - 30px);background:hsla(0,0%,100%,.5);}
+.navbar-brand{margin:0 1rem;}
+.searchMetadata{margin-left:2rem;}
+.sidebar{background:linear-gradient(0deg,#ba54f5,#BD6F8D);position:relative;color:#fff;text-align:left;font-size:1rem;z-index:5;overflow:hidden;padding:4rem 0 .5rem 0;margin-bottom:.5rem;}
+.sidebar.collapsed{display:none;}
+.sidebar .logo{position:relative;padding:1rem 0;text-align:center;}
+.sidebar .logo p{margin:0;}
+.sidebar .nav li:hover{background:#33333366;}
+.side-nav .nav-link{box-shadow:1px 1px 2px #33333366;padding:.5rem 1rem 0;}
+.side-nav  input[type="checkbox"]{opacity:0;position:relative;cursor:pointer;z-index:2;left:1rem;width:.8rem;height:.8rem;}
+.results{padding:0}
+.result-item,.tot_result{background:#34364a;border-radius:.3rem;color:#fff;text-align:left;padding:.8rem 0;margin-bottom:.8rem;}
+.result-text{margin-bottom:.1rem;}
+.result-item p{margin:0 1rem 0 0;display:inline;font:bold;color:#ffc125;}
+.result-item .col-md-3{margin-left:2.3rem;}
+.result-item .col-md-3 img,.result-item .col-md-3 .fa-headphones{width:128px;float:left;}
+.result-item .play{position:absolute;width:128px;height:128px;display:flex;display:-webkit-box;background:#0a0a0a8c;opacity:0;}
+.result-item .play:hover{opacity:1;}
+.result-item .play .fa-play-circle{position:relative;left:2.5rem;top:2.6rem;}
+.fa-headphones{background:linear-gradient(0deg,#ba54f5,#e14eca);padding:1rem;}
+.nav-result-item{color:#fff;text-align:left;padding:.35rem 0 .35rem .3rem;font-size:.85rem}
+.nav-result-item label{margin:0 0 0 .4rem;}
+.nav-result-item input[type="checkbox"]{left:.8rem;}
+.nav-result-item p{display:inline;margin-left:.5rem;}
+.page-link{margin:0 .3rem;color:#ca63a3;}
+.page-item.active .page-link{background-color:#ca63a3;border-color:#ca63a3;}
+@media (min-width:768px){
+    .sidebar.collapsed,.sidebar{padding:0 0 5rem 0;display:block;float:left;}
+}

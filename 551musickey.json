@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "music-7f27a",
+  "private_key_id": "86ec3283e8b988c9be3a2eac5a427b2955d1ce70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClNOrAGwt1V7+I\n/vE6W/9HTsvdtSGUqdBSIknPOOgfCnaFIKNiSRskosYfEtoGAkX8gtQQoiD+W5wS\nrboHBYzMfR47432gW1Mmgd7/tHDorx77tZCyBdsjzohchd7ok5Kq6WjKVkq7zSZ1\nznmELg17Ss4X9bLmF41Rq8U6GJtsl4rzuewbpO1l/AmBqweeSAFB5hWjVOOaOrvs\nqul/VysX1fAjY/skR7RT0dJeZEUW4Nkx2g3a/KThSOepyPHtlX5VYjjPzltqQM9V\nIA5Fpv/TVWk8TZ/Hx4xuEyBGvWD+xNVjFtnk25ixW63oGT443mIXZEwuSpWa4CSI\nNad3sQW7AgMBAAECggEACEnXXTv+Hyz/1wezYpIrBJDXeZAU1ziN0xEVUugv/R6x\nQ4yXpd61Fel0typi9do3WKvXp936echu1CETLDcDEV9VnPuU2e67BTuOzJVo9MOU\nclxxnfzdObaq8LlmrZR5z0lWkJAzv6hTPaXWQuNsmbrvDBSvnQuhc2+CvZ9ubMw4\n5lcuKTc6F4LG3dsgXs8S+GEteDaR2F6JQNLEQJmht6vWtES1UAZT1SyGD3w7ijOK\nYVstkak/fpITBgFBhB/LOSxYsdzeYveGAhHaQhdjAM1stbo0NT/WCbPr7Pzw7fyx\nPXTQvJfPPTZNTu3Hy/fZNcomgM1cSoyh3Koa027jAQKBgQDbnjLLfSF9hHza5X1G\nrWKeZlr2JaB0oKaND5CtTVf6/fVowT7I+fQZJwTycHZt1ej70i32cV+niq2yIyXj\nWgOilMrTPNUdIP0gWeho2GmMaA/+wdZPwQ6s/hzOGYUzdj5VZvwgbt/XypKFW9yP\nUmNzuTESEf7xOVNhjZDKyMmiUQKBgQDAky+TMlZVMhdJ95XpRuU/ZX90t1E8mt9s\nk+ng/naZQ8y5NGj3PziFuYqZO5wCWpPZQVd29Tp8awn0vb1BO6SYaC1c/kwQ1FPN\nYMGWK7XkJNp5zgPuRy+V0ZmyppyfSmxmR5+JY+Cr9K4tvxJtXNpzOTBmujQzBont\nO7ySIWD4SwKBgQC8dpXAajFDNV6vuiA3drMam1uTv9ZiPzqt8p2FGspVaXof2zW1\n4knHC+UC59+5gcfd0g//XGtpq2hDZkYtRCG6c1Va0OlRhe2yxXTcBFsPUn3ncRAo\ngNPHQIoXk27rKp1zTF0wt/T/iacTKjGsDFesB1BE4YyWFUuoe4O1gXkHAQKBgAnx\nj6tSFhMgGwO+vQbmmj/DxekI7jDq7k509MahXQ5c6d1GT4U0xn5hLj7rTQryEmBN\nd261CugRvtncUkFkCwOznWQH3XWhARLBxD001JeLL5zKfnl3Q4XA5ObMo5m2BhLh\n7+LwPVGjuLqz+weam80HTvB+/OMFm2mchAgnoRIxAoGAA/5GiIHm7qb43R8/Tq19\nbJPtO/TJ3XI7O7JZkk5igHB08oH/KFxNF9ZZ99QVqpZazkY9rEahczUBWEVdq10/\nh908tzkOXaCFuYNSS1xXJQLSWxLFQUvLrgAFRv2woEoVZkozEP97XLX4K5MPXURr\nIKsxYnVAnVJkeMbkJT+idRk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "music-7f27a@appspot.gserviceaccount.com",
+  "client_id": "105242040014428009870",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/music-7f27a%40appspot.gserviceaccount.com"
+}
