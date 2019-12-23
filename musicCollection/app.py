@@ -11,7 +11,7 @@ musicurl = 'https://music-7f27a.firebaseio.com/music.json'
 
 @app.route("/")
 def hello():
-    return render_template("base.html")
+    return render_template("index.html")
 
 def processRepData(repData,sidlist):
     if repData!=None:
